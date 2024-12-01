@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uuJFfmBHm8TZ2v2UPVAjiL/jkdglS8ixessLR06QANI=",
+  "Source": "roomRadarApi",
+  "BasePath": "_content/roomRadarApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
